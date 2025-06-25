@@ -1,31 +1,20 @@
-# Projeto de IA Local com LM Studio
+Windows (Installer)
+Baixe o instalador em https://lmstudio.ai e execute.
 
-Este repositório descreve como instalar e configurar o LM Studio para executar localmente um modelo LLM e, em seguida, baixar o modelo **phi-3-mini-4k-instruct**.
+Siga os passos do instalador; o serviço LM Studio será instalado como background.
 
----
+Abra o LM Studio, vá em Developer → Status, ative e habilite Enable CORS.
 
-## 🛠️ Requisitos
+macOS (dmg)
+Baixe o .dmg em https://lmstudio.ai.
 
-- **Hardware**: CPU com AVX2, mínimo 8 GB RAM (16 GB recomendado)  
-- **SO**: Windows 10/11 (x86_64), Linux x86_64 ou macOS (Apple Silicon ou Intel)  
-- **Espaço em disco**: ≥ 8 GB livre
+Monte e arraste o app para /Applications.
 
----
+Se necessário, clique com o botão direito sobre o ícone e selecione Abrir.
 
-## ⚙️ Instalação
+Download do Modelo
+Dentro do LM Studio, acesse Discover → Model Search.
 
-### Linux (AppImage)
+Busque phi-3-mini-4k-instruct e clique Download.
 
-```bash
-# 1. Baixar AppImage
-wget https://installers.lmstudio.ai/linux/x64/<versão>/LM-Studio-<versão>-x64.AppImage
-
-# 2. Tornar executável e extrair
-chmod u+x LM-Studio-*.AppImage
-./LM-Studio-*.AppImage --appimage-extract
-
-# 3. Ajustar permissões e executar
-cd squashfs-root
-sudo chown root:root chrome-sandbox
-sudo chmod 4755 chrome-sandbox
-./lm-studio
+Aguarde e verifique em Downloads → Models se está disponível.
