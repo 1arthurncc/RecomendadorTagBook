@@ -1,0 +1,115 @@
+{
+    "texto_original": " Então, final, aprender tudo sobre expressões algépticas. Curiu, aqui que seria uma expressão soma, subitração ou multiplicação? Porém, quando eu falo a algébrica, é porque tem letra. Então, presta atenção nesse termo aqui. Ele tem o coeficiente, que é a parte numérica, beleza? Então, 5, que é o número, é chamado de coeficiente. E a parte que tem letra, de fato, mesmo tendo os expoentes, é chamado de parte literal. Então, as letras. Curiu, mas como eu vou resolver uma expressão algébrica? Você vai juntar letras iguais, x junto com x, y junto com y, e assim eu calculo a expressão. Então, vamos resolver essa daqui, como exemplo. Olha só, 2 laranjas, mais 3 maçãs. Não consigo falar da 5, não consigo, que é maçã e laranja. Então, o que eu faço? Maçã com maçã. Laranja com... Laranja, eu eu entendi a comparação com você, fez, na expressão algébrica, eu só posso juntar letra com a mesma letra, logo y, com y, x, x, x.",
+    "topicos_detectados_pela_ia": [
+        {
+            "topic": "Expressões Algépticas"
+        },
+        {
+            "topic": "Elementos de uma Expressão Algebrica: Coeficiente e Parte Literal"
+        },
+        {
+            "topic": "Juntamento de Letras Iguales na Resolução de Expressões Algébricas"
+        },
+        {
+            "topic": "Exemplo Prático: Combinação de Itens Similares em Expressões Algebricas"
+        }
+    ],
+    "recomendacoes_livros": {
+        "Expressões Algépticas": [
+            {
+                "titulo": "O Romance das Equações Algebricas",
+                "autores": [
+                    "Gilberto Geraldo Garbi"
+                ],
+                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Express%C3%B5es+Alg%C3%A9pticas&hl=&source=gbs_api"
+            },
+            {
+                "titulo": "Álgebra - 3.Ed.",
+                "autores": [
+                    "Murray R. Spiegel",
+                    "Robert E. Moyer"
+                ],
+                "link": "https://play.google.com/store/books/details?id=YZ6lBAAAQBAJ&source=gbs_api"
+            },
+            {
+                "titulo": "Números complexos e equações algébricas",
+                "autores": [
+                    "Anderson Roges Teixeira Góes",
+                    "Heliza Colaço Góes"
+                ],
+                "link": "https://play.google.com/store/books/details?id=RJ8AEQAAQBAJ&source=gbs_api"
+            }
+        ],
+        "Elementos de uma Expressão Algebrica: Coeficiente e Parte Literal": [
+            {
+                "titulo": "O Romance das Equações Algebricas",
+                "autores": [
+                    "Gilberto Geraldo Garbi"
+                ],
+                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Elementos+de+uma+Express%C3%A3o+Algebrica:+Coeficiente+e+Parte+Literal&hl=&source=gbs_api"
+            },
+            {
+                "titulo": "Aprendizagem em matemática",
+                "autores": [
+                    "Silvia Dias Alcântara Machado"
+                ],
+                "link": "https://play.google.com/store/books/details?id=-niADwAAQBAJ&source=gbs_api"
+            },
+            {
+                "titulo": "Mente Organizada: Como reprogramar o seu cérebro para acabar com os maus Hábitos & Vícios",
+                "autores": [
+                    "The Blokehead"
+                ],
+                "link": "https://play.google.com/store/books/details?id=K0roCQAAQBAJ&source=gbs_api"
+            }
+        ],
+        "Juntamento de Letras Iguales na Resolução de Expressões Algébricas": [
+            {
+                "titulo": "Aprendizagem em matemática",
+                "autores": [
+                    "Silvia Dias Alcântara Machado"
+                ],
+                "link": "https://play.google.com/store/books/details?id=-niADwAAQBAJ&source=gbs_api"
+            },
+            {
+                "titulo": "Lesson Study: Um Contexto de e para Aprendizagem Docente",
+                "autores": [
+                    "Renata Camacho Bezerra",
+                    "Maria Raquel Miotto Morelatti"
+                ],
+                "link": "https://play.google.com/store/books/details?id=w9MtEAAAQBAJ&source=gbs_api"
+            },
+            {
+                "titulo": "O Romance das Equações Algebricas",
+                "autores": [
+                    "Gilberto Geraldo Garbi"
+                ],
+                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Juntamento+de+Letras+Iguales+na+Resolu%C3%A7%C3%A3o+de+Express%C3%B5es+Alg%C3%A9bricas&hl=&source=gbs_api"
+            }
+        ],
+        "Exemplo Prático: Combinação de Itens Similares em Expressões Algebricas": [
+            {
+                "titulo": "O Romance das Equações Algebricas",
+                "autores": [
+                    "Gilberto Geraldo Garbi"
+                ],
+                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Exemplo+Pr%C3%A1tico:+Combina%C3%A7%C3%A3o+de+Itens+Similares+em+Express%C3%B5es+Algebricas&hl=&source=gbs_api"
+            },
+            {
+                "titulo": "Parâmetros curriculares nacionais: Matemática",
+                "autores": [
+                    "Brasil. Secretaria de Educação Fundamental",
+                    "Brazil. Ministério da Educação"
+                ],
+                "link": "http://books.google.com.br/books?id=JocmAQAAIAAJ&dq=Exemplo+Pr%C3%A1tico:+Combina%C3%A7%C3%A3o+de+Itens+Similares+em+Express%C3%B5es+Algebricas&hl=&source=gbs_api"
+            },
+            {
+                "titulo": "Aprendizagem em matemática",
+                "autores": [
+                    "Silvia Dias Alcântara Machado"
+                ],
+                "link": "https://play.google.com/store/books/details?id=-niADwAAQBAJ&source=gbs_api"
+            }
+        ]
+    }
+}
