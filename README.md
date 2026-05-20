@@ -2,7 +2,7 @@
 
 TagBook é um sistema inteligente de recomendação de livros baseado em Inteligência Artificial.
 
-O projeto recebe um arquivo de áudio contendo aulas, palestras ou conteúdos educacionais, realiza a transcrição automática do áudio, 
+O projeto acadêmico recebe um arquivo de áudio contendo aulas, palestras ou conteúdos educacionais, realiza a transcrição automática do áudio, 
 identifica os principais tópicos abordados utilizando IA local e recomenda livros relacionados aos assuntos detectados.
 
 ---
