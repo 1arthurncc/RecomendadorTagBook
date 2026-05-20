@@ -1,0 +1,6 @@
+# FFmpeg
+ffmpeg-7.1.1-essentials_build/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
