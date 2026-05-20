@@ -194,7 +194,7 @@ Exemplo:
 
 ```
 
-![Exemplo de relatório gerado pelo TagBook](img/exemplo_json.png)
+![Exemplo de relatório gerado pelo TagBook](img/exemplo.png)
 
 ```
 
