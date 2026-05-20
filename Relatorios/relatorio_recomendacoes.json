@@ -1,114 +1,117 @@
 {
-    "texto_original": " Então, final, aprender tudo sobre expressões algépticas. Curiu, aqui que seria uma expressão soma, subitração ou multiplicação? Porém, quando eu falo a algébrica, é porque tem letra. Então, presta atenção nesse termo aqui. Ele tem o coeficiente, que é a parte numérica, beleza? Então, 5, que é o número, é chamado de coeficiente. E a parte que tem letra, de fato, mesmo tendo os expoentes, é chamado de parte literal. Então, as letras. Curiu, mas como eu vou resolver uma expressão algébrica? Você vai juntar letras iguais, x junto com x, y junto com y, e assim eu calculo a expressão. Então, vamos resolver essa daqui, como exemplo. Olha só, 2 laranjas, mais 3 maçãs. Não consigo falar da 5, não consigo, que é maçã e laranja. Então, o que eu faço? Maçã com maçã. Laranja com... Laranja, eu eu entendi a comparação com você, fez, na expressão algébrica, eu só posso juntar letra com a mesma letra, logo y, com y, x, x, x.",
+    "texto_original": " O que é a programação? Olha lá! Então, primariamente, imagine que você é sério. Aqui mais você não precisa imaginar. Se você perceber, você já tem meu respeito, e mesmo ainda só. Mas enfim, como será que você iria entender o mundo e observar ele? Basicamente, assim que as máquinas venham no mundo. Elas não venham. Por isso que nós programadores temos que explicar o mundo para ela. O mundo de coisa que eu estou falando é o mundo real. E o jeito que nós programadores fazemos, dá para ver o mundo. E o jeito que nós programadores fazemos na programação oriental do objeto é através da classificação dos objetos. Por isso, se pensa, o que isso significa? Bem, se no mundo real tem objetos, nós vamos classificar eles. Por exemplo, um carro seria uma classe, o que existem vários tipos de carros diferentes.",
     "topicos_detectados_pela_ia": [
         {
-            "topic": "Expressões Algépticas"
+            "Topic": "Definição da programação",
+            "Description": "Entende a essência da programação e como ela ajuda nós a compreender o mundo através das máquinas"
         },
         {
-            "topic": "Elementos de uma Expressão Algebrica: Coeficiente e Parte Literal"
+            "Topic": "Programação orientada a objetos (POO)",
+            "Description": "Descreve uma metodologia de programação onde os elementos do mundo real são representados como classes e seus tipos específicos."
         },
         {
-            "topic": "Juntamento de Letras Iguales na Resolução de Expressões Algébricas"
+            "Topic": "Classificação dos objetos",
+            "Description": "Explica a ideia de classificar o mundo em diferentes classes com exemplos, tais como carros que podem pertencer a várias tipos e subclasses."
         },
         {
-            "topic": "Exemplo Prático: Combinação de Itens Similares em Expressões Algebricas"
+            "Topic": "Relevância das máquinas",
+            "Description": "Discussão sobre a importância de programadores explicar o mundo através da lógica de máquinas, como se as máquinas fossem presentes no mundo."
         }
     ],
     "recomendacoes_livros": {
-        "Expressões Algépticas": [
+        "Definição da programação": [
             {
-                "titulo": "O Romance das Equações Algebricas",
+                "titulo": "Conceitos de Linguagens de Programação - 11.ed.",
                 "autores": [
-                    "Gilberto Geraldo Garbi"
+                    "Robert W. Sebesta"
                 ],
-                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Express%C3%B5es+Alg%C3%A9pticas&hl=&source=gbs_api"
+                "link": "https://play.google.com/store/books/details?id=J3RZDwAAQBAJ&source=gbs_api"
             },
             {
-                "titulo": "Álgebra - 3.Ed.",
+                "titulo": "Programação de TV: Conceitos, Estratégias, Táticas e Formatos",
                 "autores": [
-                    "Murray R. Spiegel",
-                    "Robert E. Moyer"
+                    "Renato Tavares Junior"
                 ],
-                "link": "https://play.google.com/store/books/details?id=YZ6lBAAAQBAJ&source=gbs_api"
+                "link": "https://play.google.com/store/books/details?id=bNibEAAAQBAJ&source=gbs_api"
             },
             {
-                "titulo": "Números complexos e equações algébricas",
+                "titulo": "Introdução à programação com Python – 3ª edição",
                 "autores": [
-                    "Anderson Roges Teixeira Góes",
-                    "Heliza Colaço Góes"
+                    "Nilo Ney Coutinho Menezes"
                 ],
-                "link": "https://play.google.com/store/books/details?id=RJ8AEQAAQBAJ&source=gbs_api"
+                "link": "http://books.google.com.br/books?id=sECCDwAAQBAJ&dq=Defini%C3%A7%C3%A3o+da+programa%C3%A7%C3%A3o&hl=&source=gbs_api"
             }
         ],
-        "Elementos de uma Expressão Algebrica: Coeficiente e Parte Literal": [
+        "Programação orientada a objetos (POO)": [
             {
-                "titulo": "O Romance das Equações Algebricas",
+                "titulo": "Desbravando Java e Orientação a Objetos",
                 "autores": [
-                    "Gilberto Geraldo Garbi"
+                    "Rodrigo Turini"
                 ],
-                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Elementos+de+uma+Express%C3%A3o+Algebrica:+Coeficiente+e+Parte+Literal&hl=&source=gbs_api"
+                "link": "https://play.google.com/store/books/details?id=1meCCwAAQBAJ&source=gbs_api"
             },
             {
-                "titulo": "Aprendizagem em matemática",
+                "titulo": "Introdução à programação orientada a objetos usando java 2a edição",
                 "autores": [
-                    "Silvia Dias Alcântara Machado"
+                    "Rafael Santos"
                 ],
-                "link": "https://play.google.com/store/books/details?id=-niADwAAQBAJ&source=gbs_api"
+                "link": "http://books.google.com.br/books?id=2pfpCgAAQBAJ&dq=Programa%C3%A7%C3%A3o+orientada+a+objetos+(POO)&hl=&source=gbs_api"
             },
             {
-                "titulo": "Mente Organizada: Como reprogramar o seu cérebro para acabar com os maus Hábitos & Vícios",
+                "titulo": "Princípios de análise e projeto de sistemas com UML",
                 "autores": [
-                    "The Blokehead"
+                    "Eduardo Bezerra"
                 ],
-                "link": "https://play.google.com/store/books/details?id=K0roCQAAQBAJ&source=gbs_api"
+                "link": "http://books.google.com.br/books?id=-wGUkgEACAAJ&dq=Programa%C3%A7%C3%A3o+orientada+a+objetos+(POO)&hl=&source=gbs_api"
             }
         ],
-        "Juntamento de Letras Iguales na Resolução de Expressões Algébricas": [
+        "Classificação dos objetos": [
             {
-                "titulo": "Aprendizagem em matemática",
+                "titulo": "Quando Mamãe Era Pequena - Classificação de Objetos - Coleção Tan Tan",
                 "autores": [
-                    "Silvia Dias Alcântara Machado"
+                    "Hye Ok Lee"
                 ],
-                "link": "https://play.google.com/store/books/details?id=-niADwAAQBAJ&source=gbs_api"
+                "link": "https://play.google.com/store/books/details?id=4Pu0DwAAQBAJ&source=gbs_api"
             },
             {
-                "titulo": "Lesson Study: Um Contexto de e para Aprendizagem Docente",
+                "titulo": "A ciência da informação criadora do conhecimento Vol. I",
                 "autores": [
-                    "Renata Camacho Bezerra",
-                    "Maria Raquel Miotto Morelatti"
+                    "Maria Manuel Borges",
+                    "Elias Sanz Casado"
                 ],
-                "link": "https://play.google.com/store/books/details?id=w9MtEAAAQBAJ&source=gbs_api"
+                "link": "https://play.google.com/store/books/details?id=BH9P54bQdFwC&source=gbs_api"
             },
             {
-                "titulo": "O Romance das Equações Algebricas",
+                "titulo": "Ontologia, conhecimento e linguagem",
                 "autores": [
-                    "Gilberto Geraldo Garbi"
+                    "Ulysses Pinheiro",
+                    "Marco Antonio Caron Ruffino",
+                    "Plínio Junqueira Smith"
                 ],
-                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Juntamento+de+Letras+Iguales+na+Resolu%C3%A7%C3%A3o+de+Express%C3%B5es+Alg%C3%A9bricas&hl=&source=gbs_api"
+                "link": "http://books.google.com.br/books?id=5gCCRVzJ18MC&dq=Classifica%C3%A7%C3%A3o+dos+objetos&hl=&source=gbs_api"
             }
         ],
-        "Exemplo Prático: Combinação de Itens Similares em Expressões Algebricas": [
+        "Relevância das máquinas": [
             {
-                "titulo": "O Romance das Equações Algebricas",
+                "titulo": "Effeitos das maquinas e suas vantagens na riqueza publica e necessidade de sua introducção no Brasil, etc",
                 "autores": [
-                    "Gilberto Geraldo Garbi"
+                    "Joaõ Diogo STURZ"
                 ],
-                "link": "http://books.google.com.br/books?id=RU3Jkn6GJ2MC&dq=Exemplo+Pr%C3%A1tico:+Combina%C3%A7%C3%A3o+de+Itens+Similares+em+Express%C3%B5es+Algebricas&hl=&source=gbs_api"
+                "link": "https://play.google.com/store/books/details?id=EaNcAAAAcAAJ&source=gbs_api"
             },
             {
-                "titulo": "Parâmetros curriculares nacionais: Matemática",
+                "titulo": "Revista Arvore",
                 "autores": [
-                    "Brasil. Secretaria de Educação Fundamental",
-                    "Brazil. Ministério da Educação"
+                    "N/A"
                 ],
-                "link": "http://books.google.com.br/books?id=JocmAQAAIAAJ&dq=Exemplo+Pr%C3%A1tico:+Combina%C3%A7%C3%A3o+de+Itens+Similares+em+Express%C3%B5es+Algebricas&hl=&source=gbs_api"
+                "link": "http://books.google.com.br/books?id=qj6aAAAAIAAJ&dq=Relev%C3%A2ncia+das+m%C3%A1quinas&hl=&source=gbs_api"
             },
             {
-                "titulo": "Aprendizagem em matemática",
+                "titulo": "Elementos de maquinas",
                 "autores": [
-                    "Silvia Dias Alcântara Machado"
+                    "Joseph Edward Shigley"
                 ],
-                "link": "https://play.google.com/store/books/details?id=-niADwAAQBAJ&source=gbs_api"
+                "link": "http://books.google.com.br/books?id=qetSAAAAMAAJ&dq=Relev%C3%A2ncia+das+m%C3%A1quinas&hl=&source=gbs_api"
             }
         ]
     }

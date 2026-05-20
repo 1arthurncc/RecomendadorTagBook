@@ -9,7 +9,7 @@ from openai import OpenAI
 client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
 
 # --- CAMINHOS E ARQUIVOS ---
-CAMINHO_AUDIO    = "Audios/matematica.opus"
+CAMINHO_AUDIO    = "Audios/programacao.opus"
 PASTA_RELATORIOS = "relatorios"
 NOME_ARQUIVO     = "relatorio_recomendacoes.json"
 
