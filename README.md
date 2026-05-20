@@ -192,7 +192,7 @@ O sistema gera um arquivo JSON contendo:
 
 Exemplo:
 
-![Exemplo de relatório gerado pelo TagBook](img/exemplo.png)
+![Exemplo de relatório gerado pelo TagBook](img/exemploJson.png)
 
 ---
 
