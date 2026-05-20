@@ -191,13 +191,8 @@ O sistema gera um arquivo JSON contendo:
 - recomendações de livros
 
 Exemplo:
-![Exemplo de relatório gerado pelo TagBook](img/exemplo.png)
-
-```
 
 ![Exemplo de relatório gerado pelo TagBook](img/exemplo.png)
-
-```
 
 ---
 
